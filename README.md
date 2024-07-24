@@ -12,7 +12,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FAArik&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
+## 🎏 My Visitors
+[URL=https://info.flagcounter.com/DgZV][IMG]https://s01.flagcounter.com/count2/DgZV/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_15/viewers_0/labels_0/pageviews_0/flags_0/percent_0/[/IMG][/URL]
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
